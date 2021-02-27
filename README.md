@@ -6,11 +6,15 @@
 
 ### 💡 Skils, 
 
+- Android Native 
+- Flutter 
 - JAVA
 - DART
-- SQL SERVER
+- Firebase 
 - JAVASCRIPT
 - HTML/CSS
+- SQL SERVER
+- Database Adminstration
 
 ## 🔧 Technologies & Tools,
 
