@@ -8,12 +8,12 @@
 
 - Android Native 
 - Flutter 
-- JAVA
-- DART
+- Java
+- Dart
 - Firebase 
-- JAVASCRIPT
-- HTML/CSS
-- SQL SERVER
+- Javascript
+- Html/Css
+- Sql Server
 - Database Adminstration
 
 ## 🔧 Technologies & Tools,
