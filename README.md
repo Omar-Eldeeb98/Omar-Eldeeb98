@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi, I am Omar 👋,
 
-<!--
-**Omar-Eldeeb98/Omar-Eldeeb98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ My Nmae is Omar Eldeeb , I am a Mobile developer (Android native - Flutter) 📱💻 , Junior DBA 🗃️.
+ 
+ Graduated From Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.
 
-Here are some ideas to get you started:
+### 💡 Skils, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JAVA
+- DART
+- SQL SERVER
+- JAVASCRIPT
+- HTML/CSS
+
+## 🔧 Technologies & Tools,
+
+![](https://img.shields.io/badge/Editor-VS_code-informational?style=flat&logo=visual-studio-code&logoColor=red&color=red)
+![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=red&color=red)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=green&color=green)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=green&color=green)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=green&color=green)
+![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Tools-SqlServer-informational?style=flat&logo=sqlite&logoColor=blue&color=blue)
+
+
+### 📉 Github Stats, 
+
+![Omar](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&count_private=true&show_icons=true&theme=algolia)
+
+### 🤖 Top Languages, 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&show_icons=true&theme=radical)
+
+
+## 💬 Contact Me,
+Linkedin [👔](https://www.linkedin.com/in/omar-eldeeb-60a130199/) |
+Twitter  [🐦](https://twitter.com/Omar__Eldeeb__)| 
