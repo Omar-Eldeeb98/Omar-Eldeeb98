@@ -2,7 +2,7 @@
 
  My Name is Omar Eldeeb , I am a Mobile developer (Android native - Flutter) 📱💻 , Junior DBA 🗃️.
  
- Graduated From Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.
+ Graduated From Faculty Of Computers & Informations at Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.
 
 ### 💡 Skils, 
 
@@ -29,7 +29,7 @@
 
 ### 📉 Github Stats, 
 
-![Omar](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&count_private=true&show_icons=true&theme=algolia)
+![Omar](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&count_private=true&show_icons=true&theme=radical)
 
 ### 🤖 Top Languages, 
 
