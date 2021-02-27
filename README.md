@@ -1,6 +1,6 @@
 ### Hi, I am Omar 👋,
 
- My Name is Omar Eldeeb , I am a Mobile developer (Android native - Flutter) 📱💻 , Junior DBA 🗃️.
+ My Name is Omar Eldeeb , I am a Mobile developer (Android native - Flutter) 📱💻 , Junior DBA 🧮.
  
  Graduated From Faculty Of Computers & Informations at Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.
 
