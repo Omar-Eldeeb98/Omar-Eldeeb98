@@ -36,5 +36,5 @@
 
 
 ## 💬 Contact Me,
-Linkedin [👔](https://www.linkedin.com/in/omar-eldeeb-60a130199/) |
-Twitter  [🐦](https://twitter.com/Omar__Eldeeb__)| 
+[![Linkedin page](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-eldeeb-60a130199/) 
+  [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Omar__Eldeeb__)
