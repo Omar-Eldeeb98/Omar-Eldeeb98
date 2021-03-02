@@ -26,10 +26,11 @@
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Tools-SqlServer-informational?style=flat&logo=sqlite&logoColor=blue&color=blue)
 
-## 🤖 Top Languages & 📉 Github Stats, 
+## 📉 Github Stats & 🤖 Top Languages, 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&show_icons=true&layout=compact&theme=radical)
 ![Omar](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&show_icons=true&layout=compact&theme=radical)
+
 
 
 
