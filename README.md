@@ -29,7 +29,7 @@
 ## 📉 Github Stats & 🤖 Top Languages, 
 
 ![Omar](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&show_icons=true&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&show_icons=true&layout=compact&&langs_count=10&theme=radical)
 
 
 
