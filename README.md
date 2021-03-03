@@ -6,7 +6,7 @@
 
 ## 💡 Skils, 
 
-- Android Native 
+- Android
 - Flutter 
 - Java
 - Dart
