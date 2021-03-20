@@ -31,15 +31,10 @@
 
 
 
-
-
-
-
 ## 📉 Github Stats & 🤖 Top Languages, 
 
 ![Omar](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&show_icons=true&layout=compact&&langs_count=10&theme=radical)
-
 
 
 
@@ -49,7 +44,7 @@
   [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Omar__Eldeeb__)
   [![Stack Overflow](https://img.shields.io/badge/stackoverflow-0077B5?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13633632/omar-eldeeb)
   
-  ## Support us ❤️, 
+  ## Support Me ❤️, 
   https://www.buymeacoffee.com/OmarEldeeb57 
   
   
