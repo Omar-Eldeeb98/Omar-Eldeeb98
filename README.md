@@ -23,8 +23,17 @@
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=green&color=green)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=green&color=green)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=green&color=green)
+![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html&logoColor=green&color=green)
+![](https://img.shields.io/badge/Code-css-informational?style=flat&logo=css&logoColor=green&color=green)
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Tools-SqlServer-informational?style=flat&logo=sqlite&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Tools-firebase-informational?style=flat&logo=firebase&logoColor=blue&color=blue)
+
+
+
+
+
+
 
 ## 📉 Github Stats & 🤖 Top Languages, 
 
