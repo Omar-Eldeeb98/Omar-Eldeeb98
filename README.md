@@ -37,3 +37,5 @@
 ## 💬 Find Me,
 [![Linkedin page](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-eldeeb-60a130199/) 
   [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Omar__Eldeeb__)
+   [![FaceBook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/omareldeeb91@yahoo.com)
+    
