@@ -5,8 +5,6 @@
  Graduated From Faculty Of Computers & Informations at Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.
 
 ## 💡 Skils, 
-
-- Android
 - Flutter 
 - Java
 - Dart
@@ -14,7 +12,7 @@
 - Javascript
 - Html/Css
 - Sql Server
-- Database Adminstration
+
 
 ## 🔧 Technologies & Tools,
 
