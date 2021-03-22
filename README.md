@@ -6,6 +6,7 @@
 
 ## 💡 Skils, 
 - Flutter 
+- Android
 - Java
 - Dart
 - Firebase 
