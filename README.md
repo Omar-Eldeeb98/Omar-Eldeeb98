@@ -17,8 +17,9 @@
 
 ## 🔧 Technologies & Tools,
 
-![](https://img.shields.io/badge/Editor-VS_code-informational?style=flat&logo=visual-studio-code&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=red&color=red)
+![](https://img.shields.io/badge/Editor-VS_code-informational?style=flat&logo=visual-studio-code&logoColor=red&color=red)
+![](https://img.shields.io/badge/Editor-eclipse-informational?style=flat&logo=eclipse&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=green&color=green)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=green&color=green)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=green&color=green)
