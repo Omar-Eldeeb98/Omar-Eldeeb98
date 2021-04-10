@@ -2,7 +2,7 @@
  <p>My Name is Omar Eldeeb , I am a Mobile developer (Android - Flutter) 📱💻 , Junior DBA 🧮.</p> 
  <p> Graduated From Faculty Of Computers & Informations at Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.</p>
 
-## 💡 Skils, 
+## Skils 💡, 
 - Flutter 
 - Android
 - Java
