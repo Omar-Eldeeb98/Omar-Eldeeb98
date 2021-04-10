@@ -1,8 +1,7 @@
 ## Hi, I am Omar 👋,
 
- My Name is Omar Eldeeb , I am a Mobile developer (Android - Flutter) 📱💻 , Junior DBA 🧮. 
- 
- Graduated From Faculty Of Computers & Informations at Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.
+ <p>My Name is Omar Eldeeb , I am a Mobile developer (Android - Flutter) 📱💻 , Junior DBA 🧮.</p> 
+<p> Graduated From Faculty Of Computers & Informations at Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.</p>
 
 ## 💡 Skils, 
 - Flutter 
@@ -44,7 +43,7 @@
 [![Linkedin page](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-eldeeb-60a130199/) 
 [![Stack Overflow](https://img.shields.io/badge/stackoverflow-0077B5?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13633632/omar-eldeeb)
   
-  ## You can now buy me a coffee ❤️, 
+  ## You can now buy me a coffee ❤️☕, 
 <p><a href="https://www.buymeacoffee.com/OmarEldeeb57"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="OmarEldeeb57" /></a></p><br><br><br><br>
   
   
