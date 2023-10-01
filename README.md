@@ -3,14 +3,6 @@
  <p> Graduated From Faculty Of Computers & Informations at Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.</p>
 
 ## Skils 💡, 
-- Flutter 
-- Android
-- Java
-- Dart
-- Firebase 
-- Javascript
-- Html/Css
-- Sql Server
 
 
 ## Technologies & Tools 🔧,
@@ -38,10 +30,9 @@
 
 ##  Find Me 💬,
 
-[![Whatsapp](https://img.shields.io/badge/whatsapp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201018341760)
+[![Whatsapp](https://img.shields.io/badge/whatsapp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201220506973)
 [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Omar__Eldeeb__)
-[![Linkedin page](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-eldeeb-60a130199/) 
-[![Stack Overflow](https://img.shields.io/badge/stackoverflow-0077B5?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13633632/omar-eldeeb)
+
   
 
   
