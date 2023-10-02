@@ -4,6 +4,13 @@
 
 ## Skils 💡, 
 - Java
+- c#
+- javascript
+- dart
+- html
+- css
+- sql server
+
   
 
 
