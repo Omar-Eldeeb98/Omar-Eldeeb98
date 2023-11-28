@@ -16,13 +16,22 @@
 
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=fenchviolet&color=gray)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=fenchviolet&color=gray)
+
 ![](https://img.shields.io/badge/VS_code-informational?style=flat&logo=visual-studio&logoColor=fenchviolet&color=gray)
+
 ![](https://img.shields.io/badge/Html5-informational?style=flat&logo=html5&logoColor=fenchviolet&color=gray)
 ![](https://img.shields.io/badge/Css3-informational?style=flat&logo=css3&logoColor=fenchviolet&color=gray)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=fenchviolet&color=gray)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=fenchviolet&color=gray)
 ![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=fenchviolet&color=gray)
+
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=fenchviolet&color=gray)
+
+![](https://img.shields.io/badge/Fontawesome-informational?style=flat&logo=fontawesome&logoColor=fenchviolet&color=gray)
+![](https://img.shields.io/badge/google_fonts-informational?style=flat&logo=google-fonts&logoColor=fenchviolet&color=gray)
+
+
+
 
 
 ## Github Stats 📉  & Top Languages 🤖, 
