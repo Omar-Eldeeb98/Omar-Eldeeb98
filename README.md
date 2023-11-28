@@ -1,9 +1,9 @@
- <h2>Hi, I am Omar 👋,</h2>
+ <h1>Hi, I am Omar 👋,</h1>
 
  <p>My Name is Omar Eldeeb , I'm a full stack web developer 💻🌐,
  <p> Graduated From Faculty Of Computers & Informations at Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.</p>
 
-## <h2>Skils 💡, </h2>
+## <h1>Skils 💡, </h1>
 - Html5
 - Css3
 - Bootstrap
@@ -13,7 +13,7 @@
 
 
 
-<h2>Technologies & Tools 🔧,</h2>
+<h1>Technologies & Tools 🔧,</h1>
 
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=fenchviolet&color=gray)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=fenchviolet&color=gray)
@@ -38,13 +38,13 @@
 
 
 
-<h2> Github Stats 📉  & Top Languages 🤖, </h2>
+<h1> Github Stats 📉  & Top Languages 🤖, </h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&show_icons=true&layout=compact&&langs_count=10&theme=dark)
 ![Omar](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&count_private=true&show_icons=true&theme=dark)
 
 
-<h2>Find Me 💬,</h2>
+<h1>Find Me 💬,</h1>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=blue&color=white)](https://www.linkedin.com/in/omar-eldeeb-60a130199/_)
 [![Twitter](https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=blue&color=white)](https://www.linkedin.com/in/omar-eldeeb-60a130199/_)
