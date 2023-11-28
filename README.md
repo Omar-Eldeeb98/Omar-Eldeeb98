@@ -1,3 +1,5 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
+ <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
  <h1>Hi, I am Omar 👋,</h1>
 
  <p>My Name is Omar Eldeeb , I'm a full stack web developer 💻🌐,
@@ -43,10 +45,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&show_icons=true&layout=compact&&langs_count=10&theme=dark)
 ![Omar](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&count_private=true&show_icons=true&theme=dark)
 
-
 <h1>Find Me 💬,</h1>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=blue&color=white)](https://www.linkedin.com/in/omar-eldeeb-60a130199/_)
 [![Twitter](https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=blue&color=white)](https://www.linkedin.com/in/omar-eldeeb-60a130199/_)
 [![Whatsapp](https://img.shields.io/badge/whatsapp-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=green&color=white)](https://wa.me/+201220506973)
-  <a href = "mailto:oeldeeb111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:oeldeeb111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&color=white" target="_blank"></a>
