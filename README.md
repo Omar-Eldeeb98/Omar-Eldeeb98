@@ -1,4 +1,5 @@
 ## Hi, I am Omar 👋,
+
  <p>My Name is Omar Eldeeb , I'm a full stack web developer,
  <p> Graduated From Faculty Of Computers & Informations at Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.</p>
 
@@ -13,7 +14,6 @@
 
 
 ## Technologies & Tools 🔧,
-
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=fenchviolet&color=gray)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=fenchviolet&color=gray)
 
@@ -39,8 +39,9 @@
 
 ## Github Stats 📉  & Top Languages 🤖, 
 
-![Omar](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&count_private=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&show_icons=true&layout=compact&&langs_count=10&theme=dark)
+![Omar](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&count_private=true&show_icons=true&theme=dark)
+
 
 ##  Find Me 💬,
 
