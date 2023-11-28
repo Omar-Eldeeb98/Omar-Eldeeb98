@@ -45,7 +45,7 @@
 
 ##  Find Me 💬,
 
-[![Mail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=Gmail&logoColor=red&color=white)](oeldeeb111@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=Gmail&logoColor=red&color=white)](https://www.gmail.com/in/oeldeeb111@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=blue&color=white)](https://www.linkedin.com/in/omar-eldeeb-60a130199/_)
 [![Twitter](https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=blue&color=white)](https://www.linkedin.com/in/omar-eldeeb-60a130199/_)
 [![Whatsapp](https://img.shields.io/badge/whatsapp-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=green&color=white)](https://wa.me/+201220506973)
