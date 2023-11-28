@@ -39,13 +39,12 @@
 
 ## Github Stats 📉  & Top Languages 🤖, 
 
-![Omar](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&show_icons=true&layout=compact&&langs_count=10&theme=radical)
-
+![Omar](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&show_icons=true&layout=compact&&langs_count=10&theme=dark)
 
 ##  Find Me 💬,
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-eldeeb-60a130199/_)
-[![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Omar__Eldeeb__)
-[![Whatsapp](https://img.shields.io/badge/whatsapp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201220506973)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=blue&color=white)](https://www.linkedin.com/in/omar-eldeeb-60a130199/_)
+[![Twitter](https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=blue&color=white)](https://www.linkedin.com/in/omar-eldeeb-60a130199/_)
+[![Whatsapp](https://img.shields.io/badge/whatsapp-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=green&color=white)](https://wa.me/+201220506973)
 
