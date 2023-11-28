@@ -3,7 +3,7 @@
  <p>My Name is Omar Eldeeb , I'm a full stack web developer 💻🌐,
  <p> Graduated From Faculty Of Computers & Informations at Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.</p>
 
-<h2>Skils 💡, </h2>
+## <h2>Skils 💡, </h2>
 - Html5
 - Css3
 - Bootstrap
