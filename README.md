@@ -3,10 +3,10 @@
  <p> Graduated From Faculty Of Computers & Informations at Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.</p>
 
 ## Skils 💡, 
-- Javascript
 - Html5
 - Css3
 - Bootstrap
+- javascript
 
 
 ## Technologies & Tools 🔧,
