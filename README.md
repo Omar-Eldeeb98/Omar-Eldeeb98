@@ -9,11 +9,20 @@
 - javascript
 
 
+
+
+
 ## Technologies & Tools 🔧,
 
-![](https://img.shields.io/badge/Editor-VS_code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=blue)
-
-
+![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=fenchviolet&color=gray)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=fenchviolet&color=gray)
+![](https://img.shields.io/badge/VS_code-informational?style=flat&logo=visual-studio&logoColor=fenchviolet&color=gray)
+![](https://img.shields.io/badge/Html5-informational?style=flat&logo=html5&logoColor=fenchviolet&color=gray)
+![](https://img.shields.io/badge/Css3-informational?style=flat&logo=css3&logoColor=fenchviolet&color=gray)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=fenchviolet&color=gray)
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=fenchviolet&color=gray)
+![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=fenchviolet&color=gray)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=fenchviolet&color=gray)
 
 
 ## Github Stats 📉  & Top Languages 🤖, 
@@ -22,16 +31,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&show_icons=true&layout=compact&&langs_count=10&theme=radical)
 
 
-
 ##  Find Me 💬,
 
-[![Whatsapp](https://img.shields.io/badge/whatsapp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201220506973)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-eldeeb-60a130199/_)
 [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Omar__Eldeeb__)
+[![Whatsapp](https://img.shields.io/badge/whatsapp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201220506973)
 
-
-  
-
-  
-  
-  
-    
