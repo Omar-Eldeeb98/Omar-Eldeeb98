@@ -17,10 +17,13 @@
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=fenchviolet&color=gray)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=fenchviolet&color=gray)
 
-![](https://img.shields.io/badge/VS_code-informational?style=flat&logo=visual-studio&logoColor=fenchviolet&color=gray)
+![](https://img.shields.io/badge/android_studio-informational?style=flat&logo=android-studio&logoColor=fenchviolet&color=gray)
+![](https://img.shields.io/badge/visual_studio-informational?style=flat&logo=visual-studio&logoColor=purple&color=gray)
+![](https://img.shields.io/badge/VS_code-informational?style=flat&logo=visual-studio&logoColor=blue&color=gray)
+![](https://img.shields.io/badge/atom-informational?style=flat&logo=atom&logoColor=green&color=gray)
 
 ![](https://img.shields.io/badge/Html5-informational?style=flat&logo=html5&logoColor=fenchviolet&color=gray)
-![](https://img.shields.io/badge/Css3-informational?style=flat&logo=css3&logoColor=fenchviolet&color=gray)
+![](https://img.shields.io/badge/Css3-informational?style=flat&logo=css3&logoColor=blue&color=gray)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=fenchviolet&color=gray)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=fenchviolet&color=gray)
 ![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=fenchviolet&color=gray)
