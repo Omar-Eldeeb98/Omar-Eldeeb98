@@ -39,8 +39,9 @@
 
 
 ## <h1> Github Stats 📉  & Top Languages 🤖, </h1>
-![Omar-Eldeeb98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
 ![Omar-Eldeeb98's Stats](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+![Omar-Eldeeb98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 
 
