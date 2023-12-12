@@ -23,7 +23,7 @@
 ![android-studio](https://img.shields.io/badge/android_studio-informational?style=flat&logo=android-studio&logoColor=fenchviolet&color=gray)
 ![visual-studio](https://img.shields.io/badge/visual_studio-informational?style=flat&logo=visual-studio&logoColor=purple&color=gray)
 ![vs-code](https://img.shields.io/badge/VS_code-informational?style=flat&logo=visual-studio&logoColor=blue&color=gray)
-![atom](https://img.shields.io/badge/atom-informational?style=flat&logo=atom&logoColor=green&color=gray)
+
 
 ![html5](https://img.shields.io/badge/Html5-informational?style=flat&logo=html5&logoColor=fenchviolet&color=gray)
 ![css3](https://img.shields.io/badge/Css3-informational?style=flat&logo=css3&logoColor=blue&color=gray)
