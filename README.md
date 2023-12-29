@@ -19,20 +19,16 @@
 
 ![github](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=fenchviolet&color=gray)
 ![gi](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=fenchviolet&color=gray)
-
 ![android-studio](https://img.shields.io/badge/android_studio-informational?style=flat&logo=android-studio&logoColor=fenchviolet&color=gray)
 ![visual-studio](https://img.shields.io/badge/visual_studio-informational?style=flat&logo=visual-studio&logoColor=purple&color=gray)
 ![vs-code](https://img.shields.io/badge/VS_code-informational?style=flat&logo=visual-studio&logoColor=blue&color=gray)
-
-
 ![html5](https://img.shields.io/badge/Html5-informational?style=flat&logo=html5&logoColor=fenchviolet&color=gray)
 ![css3](https://img.shields.io/badge/Css3-informational?style=flat&logo=css3&logoColor=blue&color=gray)
+
 ![bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=fenchviolet&color=gray)
 ![javascript](https://img.shields.io/badge/javascript-informational?style=flat&logo=javascript&logoColor=fenchviolet&color=gray)
 ![react.js](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=fenchviolet&color=gray)
-
 ![node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=fenchviolet&color=gray)
-
 ![fontawesome](https://img.shields.io/badge/Fontawesome-informational?style=flat&logo=fontawesome&logoColor=fenchviolet&color=gray)
 ![google-fonts](https://img.shields.io/badge/google_fonts-informational?style=flat&logo=google-fonts&logoColor=fenchviolet&color=gray)
 
@@ -42,8 +38,6 @@
 
 ![Omar-Eldeeb98's Stats](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 ![Omar-Eldeeb98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
-
 
 
 
