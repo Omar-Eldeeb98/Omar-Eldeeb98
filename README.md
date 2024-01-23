@@ -17,17 +17,18 @@
    ![jQuery](https://img.shields.io/badge/jQuery-239120?&style=for-the-badge&logo=Jquery&logoColor=white&color=blue)
    ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
    ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
    ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+   ![git](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=fenchviolet&color=black)
    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-   ![fontawesome](https://img.shields.io/badge/Fontawesome-informational?style=for-the-badge&logo=fontawesome&logoColor=fenchviolet&color=gray)
-   ![google-fonts](https://img.shields.io/badge/google_fonts-informational?style=for-the-badge&logo=google-fonts&logoColor=fenchviolet&color=gray)
-   ![github](https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=fenchviolet&color=gray)
-   ![gi](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=fenchviolet&color=gray)
-   ![android-studio](https://img.shields.io/badge/android_studio-informational?style=for-the-badge&logo=android-studio&logoColor=fenchviolet&color=gray)
+   ![fontawesome](https://img.shields.io/badge/Fontawesome-informational?style=for-the-badge&logo=fontawesome&logoColor=fenchviolet&color=white)
+   ![google-fonts](https://img.shields.io/badge/google_fonts-informational?style=for-the-badge&logo=google-fonts&logoColor=fenchviolet&color=white)
+   ![android-studio](https://img.shields.io/badge/android_studio-informational?style=for-the-badge&logo=android-studio&logoColor=fenchviolet&color=white)
+   
 
    
 
