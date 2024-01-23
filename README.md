@@ -5,35 +5,31 @@
  <p>My Name is Omar Eldeeb , I'm a full stack web developer 💻🌐,</p>
  <p> Graduated From Faculty Of Computers & Informations at Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.</p>
 
-## <h1>Skils 💡, </h1>
+## <h1>Skils 💡, Technologies & Tools 🔧 </h1>
 
    ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-   ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=orange)
-   ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=blue)
+   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![jQuery](https://img.shields.io/badge/jQuery-239120?&style=for-the-badge&logo=Jquery&logoColor=white&color=blue)
+   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+   ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+   ![fontawesome](https://img.shields.io/badge/Fontawesome-informational?style=for-the-badge&logo=fontawesome&logoColor=fenchviolet&color=gray)
+   ![google-fonts](https://img.shields.io/badge/google_fonts-informational?style=for-the-badge&logo=google-fonts&logoColor=fenchviolet&color=gray)
+   ![github](https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=fenchviolet&color=gray)
+   ![gi](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=fenchviolet&color=gray)
+   ![android-studio](https://img.shields.io/badge/android_studio-informational?style=for-the-badge&logo=android-studio&logoColor=fenchviolet&color=gray)
+
    
-
-
-
-## <h1>Technologies & Tools 🔧,</h1>
-
-![github](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=fenchviolet&color=gray)
-![gi](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=fenchviolet&color=gray)
-![android-studio](https://img.shields.io/badge/android_studio-informational?style=flat&logo=android-studio&logoColor=fenchviolet&color=gray)
-![visual-studio](https://img.shields.io/badge/visual_studio-informational?style=flat&logo=visual-studio&logoColor=purple&color=gray)
-![vs-code](https://img.shields.io/badge/VS_code-informational?style=flat&logo=visual-studio&logoColor=blue&color=gray)
-![html5](https://img.shields.io/badge/Html5-informational?style=flat&logo=html5&logoColor=fenchviolet&color=gray)
-![css3](https://img.shields.io/badge/Css3-informational?style=flat&logo=css3&logoColor=blue&color=gray)
-
-![bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=fenchviolet&color=gray)
-![javascript](https://img.shields.io/badge/javascript-informational?style=flat&logo=javascript&logoColor=fenchviolet&color=gray)
-![react.js](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=fenchviolet&color=gray)
-![node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=fenchviolet&color=gray)
-![fontawesome](https://img.shields.io/badge/Fontawesome-informational?style=flat&logo=fontawesome&logoColor=fenchviolet&color=gray)
-![google-fonts](https://img.shields.io/badge/google_fonts-informational?style=flat&logo=google-fonts&logoColor=fenchviolet&color=gray)
-
 
 
 ## <h1> Github Stats 📉  & Top Languages 🤖, </h1>
