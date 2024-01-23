@@ -25,7 +25,7 @@
    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-   ![fontawesome](https://img.shields.io/badge/Fontawesome-informational?style=for-the-badge&logo=fontawesome&logoColor=fenchviolet&color=white)
+   ![fontawesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
    ![google-fonts](https://img.shields.io/badge/google_fonts-informational?style=for-the-badge&logo=google-fonts&logoColor=fenchviolet&color=white)
    ![android-studio](https://img.shields.io/badge/android_studio-informational?style=for-the-badge&logo=android-studio&logoColor=fenchviolet&color=white)
    
