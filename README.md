@@ -36,6 +36,8 @@
    ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
    ![brave-browser](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
    ![chrome-browser](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+   ![ajax](https://img.shields.io/badge/Ajax-FF6C37?style=for-the-badge&logo=Ajax&logoColor=white)
+   ![api](https://img.shields.io/badge/Api-FF6C37?style=for-the-badge&logo=Api&logoColor=white)
    	
    
 
