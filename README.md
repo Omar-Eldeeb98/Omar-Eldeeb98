@@ -33,6 +33,7 @@
    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
    ![ajax](https://img.shields.io/badge/Ajax-FF6C37?style=flat&logo=Ajax&logoColor=white)
    ![api](https://img.shields.io/badge/Api-FF6C37?style=flat&logo=Api&logoColor=white)
+   ![oop](https://img.shields.io/badge/OOP-90E59A?style=flat&logo=OOP&logoColor=white)
    ![postman](	https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
    ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
    ![glup](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white)
