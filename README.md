@@ -9,12 +9,12 @@
  <p>I am a Software Engineer & Fronted Web Developer (Angular).</p>
 
  <h3> Technical Skills 👉:</h3>
- <p>Programming Languages: JavaScript, EcmaScript6, TypeScript, Java, and C#.</p>
- <p>Frameworks: Angular2+, Bootstrapv5.3, Tailwind CSS. </p>
- <p>Databases: SQL Server, MySQL, Firebase</p>
- <p>Front-End Technologies: Html5, Css3, SCSS, jQuery, DOM, BOM, Ajax, JSON, Responsive Designs, Media Query, Regex.</p>
- <p>Concepts: standalone component, oop, data structure, algorithms, design patterns, problem solving.</p>
- <p>Others: Figma, Unit Testing, Npm, RXJS, PrimeNG, Git, GitHub.</p>
+ <p>🟢Programming Languages➡️:  JavaScript, EcmaScript6, TypeScript, Java, and C#.</p>
+ <p>🟢Frameworks➡️:  Angular2+, Bootstrapv5.3, Tailwind CSS. </p>
+ <p>🟢Databases➡️:  SQL Server, MySQL, Firebase</p>
+ <p>🟢Front-End Technologies➡️:  Html5, Css3, SCSS, jQuery, DOM, BOM, Ajax, JSON, Responsive Designs, Media Query, Regex.</p>
+ <p>🟢Concepts➡️:  standalone component, oop, data structure, algorithms, design patterns, problem solving.</p>
+ <p>🟢Others➡️:  Figma, Unit Testing, Npm, RXJS, PrimeNG, Git, GitHub.</p>
  
 
 
