@@ -6,7 +6,7 @@
  <p> Graduated From Faculty Of Computers & Informations at Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.</p>
  
  <h1> What I Do 💼: </h1>
- <p>I am a Software Engineer & Fronted Web Developer (Angular2+).</p>
+ <h3>I am a Software Engineer & Fronted Web Developer (Angular2+).</h3>
 
  <h1> Technical Skills 👉:</h1>
  <p>🔴Programming Languages:➡  JavaScript, EcmaScript6, TypeScript, Java, and C#.</p>
