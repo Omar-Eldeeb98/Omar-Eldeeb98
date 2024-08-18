@@ -5,10 +5,10 @@
  <p>My Name is Omar Makram Eldeeb , I'm Frontend developer (Angular2+) 💻🌐.</p>
  <p> Graduated From Faculty Of Computers & Informations at Kafr El-Sheikh University, Information System Department with 3.0 GPA 🎓.</p>
  
- <h2> What I Do 💼: </h2>
+ <h1> What I Do 💼: </h1>
  <p>I am a Software Engineer & Fronted Web Developer (Angular2+).</p>
 
- <h2> Technical Skills 👉:</h2>
+ <h1> Technical Skills 👉:</h1>
  <p>🔴Programming Languages:➡  JavaScript, EcmaScript6, TypeScript, Java, and C#.</p>
  <p>🔴Frameworks:➡️  Angular2+, Bootstrapv5.3, Tailwind CSS. </p>
  <p>🔴Databases:➡️ SQL Server, MySQL, Firebase</p>
