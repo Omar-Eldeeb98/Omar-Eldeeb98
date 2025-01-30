@@ -1,18 +1,22 @@
 <img width=100% title="OE57-Developer" alt="OE57-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Frontend-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
- ## <h1>Hi, I am Omar 👋</h1>    <img src="https://komarev.com/ghpvc/?username=Omar-Eldeeb98&style=flat"/>
+ ## <h1>Hi, I am Omar 👋  <img src="https://komarev.com/ghpvc/?username=Omar-Eldeeb98&style=flat"/> </h1>   
 
  ## Summary
  <p> 
 I'm a Mid-level Angular front-end developer with two years of experience designing and building responsive,
 user-friendly web applications. Proficient in Angular, TypeScript, and modern front-end technologies.
 Passionate about creating efficient, scalable, and maintainable code. A strong collaborator with experience
-working in Agile teams to deliver high-quality solutions on time 💻🌐.</p>
+working in Agile teams to deliver high-quality solutions on time 💻🌐.
+
+ 
+ 
+ </p>
 
 ## Education
-- Bachelor's degree in Computer Science. (Kafr El Sheikh University, Faculty of Computers and Information)  ------------>  Sep 2016 - Jun 2020
-- Internship with Information Technology Institute ( ITI ) in Web Development .                             ------------>  Jul 2019 - Sep 2019
-- Front End Web development (Angular) Diploma in Route Academy  .                                           ------------>  Oct 2023 - Mar 2024  
+- Bachelor's degree in Computer Science, (Kafr El Sheikh University, Faculty of Computers and Information).
+- Internship with Information Technology Institute ( ITI ) in Web Development.       
+- Front End Web development (Angular) Diploma in Route Academy.         
  
  ## Technical Skills
 <h4>🔴 Programming Languages </h4>
