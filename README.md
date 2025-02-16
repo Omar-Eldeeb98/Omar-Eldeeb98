@@ -19,26 +19,27 @@ working in Agile teams to deliver high-quality solutions on time 💻🌐.
 - Front End Web development (Angular) Diploma in Route Academy.         
  
  ## Technical Skills
-<h4>🔴 Programming Languages </h4>
-    <p>JavaScript, EcmaScript6, TypeScript, Java, and C#</p>
+ #### ▶️ Programming Languages
+- JavaScript, EcmaScript6, TypeScript, Java, and C#
 
-<h4>🔴 Frameworks</h4>
-    <p>Angular2+, Bootstrapv5.3, Tailwind CSS.</p>
+#### ▶️ Frameworks
+- Angular2+, Bootstrapv5.3, Tailwind CSS
 
-<h4>🔴 Databases</h4>
-    <p>SQL Server, MySQL, Firebase</p>
+#### ▶️ Databases
+- SQL Server, MySQL, Firebase
 
-<h4>🔴 Frontend Technologies</h4>
-    <p>Html5, Css3, SCSS, jQuery, DOM, BOM, Ajax, JSON, Responsive Designs, Media Query, Regex.</p>
+#### ▶️ Frontend Technologies
+- Html5, Css3, SCSS, jQuery, DOM, BOM, Ajax, JSON, Responsive Designs, Media Query, Regex
 
-<h4>🔴Version Control</h4>
-    <p>Git, GitHub.</p>
+#### ▶️ Version Control
+- Git, GitHub
 
-<h4>🔴Concepts</h4>
-    <p>standalone component, oop, data structure, algorithms, design patterns, problem solving.</p>
+#### ▶️ Concepts
+- Standalone component, OOP, Data Structure, Algorithms, Design Patterns, Problem Solving
 
-<h4>🔴Others</h4>
-    <p>Figma, Unit Testing, Npm, RXJS, PrimeNG, </p>
+#### ▶️ Others
+- Figma, Unit Testing, Npm, RXJS, PrimeNG
+
  
 
 
