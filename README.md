@@ -2,7 +2,7 @@
 
 ## <h1>Hi, I am Omar 👋 <img src="https://komarev.com/ghpvc/?username=Omar-Eldeeb98&style=flat"/> </h1>
 
-## Summary
+## Summary :
 
  <p> 
 I'm a Mid-level Angular front-end developer with two years of experience designing and building responsive,
@@ -12,13 +12,13 @@ working in Agile teams to deliver high-quality solutions on time 💻🌐.
 
  </p>
 
-## Education
+## Education :
 
 - Bachelor's degree in Computer Science, (Kafr El Sheikh University, Faculty of Computers and Information).
 - Internship with Information Technology Institute ( ITI ) in Web Development.
 - Front End Web development (Angular) Diploma in Route Academy.
 
-## Technical Skills
+## Technical Skills :
 
 #### ▶️ Programming Languages :
 
@@ -194,7 +194,7 @@ working in Agile teams to deliver high-quality solutions on time 💻🌐.
         </td>
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-                <img src="./images/icons8-my-sql-240.png" style="width: 65px; height: 65px;" />
+                <img src="./images/icons8-my-sql-240 - Copy.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">MySql</p>
             </div>
         </td>
