@@ -112,8 +112,71 @@ working in Agile teams to deliver high-quality solutions on time 💻🌐.
         </td>
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-                <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" style="width: 65px; height: 65px;" />
+                <img src="./images/json.svg" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">Json </p>
+            </div>
+        </td>
+    </tr>
+</table>
+
+#### ▶️ unit testing :
+
+<table style="width: 100%;">
+    <tr style="width: 100%;">
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/karma.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Karma</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/jest-2.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Jest</p>
+            </div>
+        </td>
+    </tr>
+</table>
+
+#### ▶️ Liberiries :
+
+<table style="width: 100%;">
+    <tr style="width: 100%;">
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/highcharts.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Highcharts</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/fontawesome-1.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Fontawesome</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/google-fonts-2021-2.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Google Fonts</p>
+            </div>
+        </td>
+    </tr>
+</table>
+
+#### ▶️ State Management :
+
+<table style="width: 100%;">
+    <tr style="width: 100%;">
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/ngrx.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">NGRX</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/rxjs-1.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">RXJS</p>
             </div>
         </td>
     </tr>
@@ -139,31 +202,6 @@ working in Agile teams to deliver high-quality solutions on time 💻🌐.
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons8-firebase-240.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">Firbase</p>
-            </div>
-        </td>
-    </tr>
-</table>
-
-#### ▶️ Version Control :
-
-<table style="width: 100%;">
-    <tr style="width: 100%;">
-        <td align="center" width="96">
-            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-                <img src="./images/icons8-git-logo-240.png" style="width: 65px; height: 65px;" />
-                <p style="padding: 0; margin: 0;">Git</p>
-            </div>
-        </td>
-        <td align="center" width="96">
-            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-                <img src="./images/github.png" style="width: 65px; height: 65px;" />
-                <p style="padding: 0; margin: 0;">Github</p>
-            </div>
-        </td>
-               <td align="center" width="96">
-            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-                <img src="./images/vercel-icon-svgrepo-com.svg" style="width: 65px; height: 65px;" />
-                <p style="padding: 0; margin: 0;">Vercel</p>
             </div>
         </td>
     </tr>
@@ -213,20 +251,26 @@ working in Agile teams to deliver high-quality solutions on time 💻🌐.
     </tr>
 </table>
 
-#### ▶️ Liberires :
+#### ▶️ Version Control :
 
 <table style="width: 100%;">
     <tr style="width: 100%;">
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-                <img src="./images/ngrx.svg" style="width: 65px; height: 65px;" />
-                <p style="padding: 0; margin: 0;">NGRX</p>
+                <img src="./images/icons8-git-logo-240.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Git</p>
             </div>
         </td>
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-                <img src="./images/rxjs-1.svg" style="width: 65px; height: 65px;" />
-                <p style="padding: 0; margin: 0;">RXJS</p>
+                <img src="./images/github.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Github</p>
+            </div>
+        </td>
+               <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/vercel-icon-svgrepo-com.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Vercel</p>
             </div>
         </td>
     </tr>
@@ -235,6 +279,7 @@ working in Agile teams to deliver high-quality solutions on time 💻🌐.
 ## Github Stats 📉 & Top Languages 🤖 :
 
 ![Omar-Eldeeb98's Stats](https://github-readme-stats.vercel.app/api?username=Omar-Eldeeb98&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+
 ![Omar-Eldeeb98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eldeeb98&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## Contact Me 💬 :
