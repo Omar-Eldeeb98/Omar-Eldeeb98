@@ -284,6 +284,6 @@ working in Agile teams to deliver high-quality solutions on time 💻🌐.
 
 ## Contact Me 💬 :
 
-<a href="mailto:omarmakrameldeeb.98@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/omar-eldeeb-60a130199/" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="https://wa.me/+201018341760" target = "_blank"><img src = "https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
+<a  style="margin-inline-end:12px;" href="https://www.linkedin.com/in/omar-eldeeb-60a130199/" target="_blank"><img src = "./images/linkedin-icon-2.svg" style="width:40px; height:40px"></a>
+<a style="margin-inline-end:12px;"  href="mailto:omarmakrameldeeb.98@gmail.com" target = "_blank"><img  src = "./images/gmail-icon.svg" style="width: 40px; height:40px" ></a>
+<a style="margin-inline-end:12px;" href="https://wa.me/+201018341760" target = "_blank"><img src = "./images/whatsapp-business-bg.svg" style="width: 40px; height:40px"></a>
